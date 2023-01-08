@@ -4,6 +4,7 @@ title = "Stacks"
 sub_ecosystems = [
   "alexgo-io",
   "arkadiko-dao",
+  "bitfari",
   "citycoins",
   "DLC-link",
   "friedger-pool",
@@ -13,13 +14,14 @@ sub_ecosystems = [
   "lnstxbridge",
   "synonymdev",
   "syvita-guild",
-  "Stacks Degens",
+  "Stacks Degens"
 ]
 
 github_organizations = [
   "https://github.com/alexgo-io",
   "https://github.com/bitcoin-nfts",
   "https://github.com/alexgo-io",
+  "https://github.com/bitfari",
   "https://github.com/blackholeorganization",
   "https://github.com/Daemon-Technologies",
   "https://github.com/DemocracyEarth",
@@ -249,6 +251,18 @@ url = "https://github.com/betosmith2000/dMyBlog"
 
 [[repo]]
 url = "https://github.com/betosmith2000/encryptedbox"
+
+[[repo]]
+url = "https://github.com/bitfari/fari-fungible-token"
+
+[[repo]]
+url = "https://github.com/bitfari/land"
+
+[[repo]]
+url = "https://github.com/bitfari/clubcash"
+
+[[repo]]
+url = "https://github.com/bitfari/social-connector"
 
 [[repo]]
 url = "https://github.com/bhu1st/clarity"
